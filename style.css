@@ -1,0 +1,147 @@
+/*fonts.google.com link*/
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Roboto:ital,wght@1,700&display=swap');
+
+
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+       
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 50px;
+    top: 40px;
+}
+.bottom-cloud {
+    position:absolute;
+    top: 40px;
+    left: 150px;
+    bottom: 300px;
+    padding-top: 742px;
+}
+
+          /* I'm THIRUMANIRAJA.*/
+
+h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family:'Times New Roman', Times, serif;
+}
+
+         /* Full Stack*/
+
+.pro {
+    text-decoration: underline;
+    font-family:'Times New Roman', Times, serif;
+}
+
+         /* Web Developer.*/
+
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+
+.middle-container {
+    margin: 100px 0;
+}
+     
+          /* Thiru's Image*/
+
+.thiru{
+    border-radius: 50%;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+          /* Thiru's Intro*/
+
+.intro{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    color: #11cdd4;
+}
+
+     /* Design and Development*/
+
+.coding{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+}
+
+         /* WebIntro*/
+.Webintro{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    color: #11cdd4;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 60px 0 20px;
+}
+
+a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:-webkit-any-link {
+    
+    cursor: pointer;
+   
+}
+
+           /* Contact Me Button  */
+
+.btn {
+    
+   
+        background: #11cdd4;
+        border-radius: 8px;
+        font-family: "Montserrat", sans-serif;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+
+ 
+}
+
+            /*  Queries */
+
+.contact-message{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    color: #11cdd4;
+    padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
